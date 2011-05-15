@@ -1,0 +1,3 @@
+{projects: [{title:'P-ONE', complete:75,deadline:'04/30/2011', elements:['PHASE 1','PHASE 2','PHASE 3']},
+{title:'P-TWO', complete:25,deadline:'05/05/2011',elements:['TEST1','DEVELOPMENT','FINAL PROOF']}
+]}

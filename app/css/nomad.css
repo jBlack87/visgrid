@@ -1,0 +1,69 @@
+body {
+	background: #000;
+	font-family: monospace, Courier New, Courier New;
+	font-weight: bolder!important;
+	color: #0090a1;
+	text-transform: uppercase;
+}
+
+#vis_grid {
+margin: 0px;
+padding:0px;
+position: absolute;
+left: 0px;
+top:0px;
+background: #000;
+}
+
+
+#terminal_container {
+border: 1px solid #0090a1;
+width:300px;
+height: 90%;
+
+position: absolute;
+z-index: 9999;
+right: 0px;
+margin-right: 20px;
+margin-top: 20px;
+padding:5px;
+border-radius: 3px;
+}
+
+#terminal_input_container {
+color: #0090a1!important;
+border: 1px solid #0090a1!important;
+padding:5px;
+opacity: 0.8;
+height: 97%;
+}
+
+#terminal_input {
+width:500px;
+background: none;
+border: 0px;
+	font-family: Courier New, Courier New, monospace;
+	font-weight: bolder;
+
+color: #0090a1;
+}
+
+#console_container {
+position: absolute;
+left: 5px;
+top:5px;
+border-radius: 3px;
+
+opacity: 0.5;
+color: #0090a1;
+z-index: 99999;
+height: 90%;
+overflow: hidden;
+}
+
+.console_line {
+color: #0090a1;
+font-weight: lighter;
+font-size: 8pt;
+display: block;
+}

@@ -1,0 +1,22 @@
+[17-Apr-2011 13:05:07] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 22
+[17-Apr-2011 13:10:54] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 44
+[17-Apr-2011 13:11:54] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 44
+[17-Apr-2011 13:11:56] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 44
+[17-Apr-2011 13:12:36] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 44
+[17-Apr-2011 13:12:49] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 44
+[17-Apr-2011 13:12:55] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 44
+[17-Apr-2011 13:14:25] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 25
+[22-Apr-2011 00:54:10] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '$' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 93
+[22-Apr-2011 00:54:48] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '$' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 93
+[22-Apr-2011 00:55:08] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '$' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 93
+[22-Apr-2011 00:56:53] PHP Warning:  Wrong parameter count for fread() in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:57:29] PHP Warning:  file_get_contents() expects parameter 1 to be string, resource given in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:58:15] PHP Warning:  readfile() expects parameter 1 to be string, resource given in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:58:28] PHP Warning:  readfile() expects parameter 1 to be string, resource given in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:58:50] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 97
+[22-Apr-2011 00:59:00] PHP Parse error:  syntax error, unexpected ':' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:59:09] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:59:18] PHP Warning:  readfile() expects parameter 1 to be string, resource given in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 96
+[22-Apr-2011 00:59:43] PHP Warning:  readfile() expects parameter 1 to be string, resource given in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 97
+[22-Apr-2011 03:00:15] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 16
+[22-Apr-2011 03:00:15] PHP Parse error:  syntax error, unexpected T_STRING in /home2/blackscy/public_html/rocketfacegames.com/nomad/terminalServer.php on line 16
