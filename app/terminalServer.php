@@ -13,6 +13,9 @@ if (!empty($_POST['input']))
 			sleep(2);
 			print "slept!";
 			break;
+		case 'meganode':
+			print "{command:'meganode_run', output:'RUNNING MEGANODE'}";
+			break;
 		case 'run visgrid':
 			print "{command:'run_vis_grid', output:'RUNNING VIS GRID 1.0'}";
 			
